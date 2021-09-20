@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-spacestagram/static/css/main.9adc4efe.chunk.css",
+    "main.js": "/my-spacestagram/static/js/main.5fed5bd4.chunk.js",
+    "main.js.map": "/my-spacestagram/static/js/main.5fed5bd4.chunk.js.map",
+    "runtime-main.js": "/my-spacestagram/static/js/runtime-main.edd16b23.js",
+    "runtime-main.js.map": "/my-spacestagram/static/js/runtime-main.edd16b23.js.map",
+    "static/js/2.374f8141.chunk.js": "/my-spacestagram/static/js/2.374f8141.chunk.js",
+    "static/js/2.374f8141.chunk.js.map": "/my-spacestagram/static/js/2.374f8141.chunk.js.map",
+    "index.html": "/my-spacestagram/index.html",
+    "static/css/main.9adc4efe.chunk.css.map": "/my-spacestagram/static/css/main.9adc4efe.chunk.css.map",
+    "static/js/2.374f8141.chunk.js.LICENSE.txt": "/my-spacestagram/static/js/2.374f8141.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edd16b23.js",
+    "static/js/2.374f8141.chunk.js",
+    "static/css/main.9adc4efe.chunk.css",
+    "static/js/main.5fed5bd4.chunk.js"
+  ]
+}
