@@ -10,11 +10,13 @@ button {
   width: 5rem;
   border: none;
   background-color: rgba(132, 29, 136, 0.543);
+  color: white;
 }
 
 button:hover {
   cursor: pointer;
   background-color: rgb(92, 13, 95);
+  color: white;
 }
 
 figcaption {
@@ -80,8 +82,10 @@ footer {
 
 .unliked {
   background-color: rgb(227, 198, 255);
+  color: black;
 }
 
 .liked {
   background-color: #d7b4ff;
+  color: black;
 }
