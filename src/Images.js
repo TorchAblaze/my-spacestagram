@@ -67,21 +67,21 @@ class Images extends React.Component {
       return <>Error: {error.message}</>
     } else if (!isLoaded) {
       return  (
-        <div class="load-container">
-          <div class="planet">
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
+        <div className="load-container">
+          <div className="planet">
+            <div className="circle"></div>
+            <div className="circle"></div>
+            <div className="circle"></div>
+            <div className="circle"></div>
+            <div className="circle"></div>
+            <div className="circle"></div>
+            <div className="circle"></div>
           </div>
-          <div class="rocket">
-            <div class="flame"></div>
-            <div class="flame"></div>
-            <div class="flame"></div>
-            <div class="flame"></div>
+          <div className="rocket">
+            <div className="flame"></div>
+            <div className="flame"></div>
+            <div className="flame"></div>
+            <div className="flame"></div>
           </div>
         </div>
       )
