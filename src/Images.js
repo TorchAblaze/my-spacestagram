@@ -47,14 +47,14 @@ class Images extends React.Component {
     .then(
       (jsonifiedResponse) => {
         this.setState({
-          isLoaded: false,
+          isLoaded: true,
           images: [...jsonifiedResponse.collection.items],
           keywords: ""
         });
       })
       .catch((error) => {
         this.setState({
-          isLoaded: false,
+          isLoaded: true,
           error
         })
       })
